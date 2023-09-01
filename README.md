@@ -1,7 +1,7 @@
 ### Hi there, I'm [VitalijKo](https://github.com/VitalijKo) (or Corruptor) 👋
 
-🏠 I'm currently living at Sarativ, Russia 🇷🇺. <br />
-👨‍💻 I'm currently studying at scool. <br />
+🏠 I'm currently living at Saratov, Russia 🇷🇺. <br />
+👨‍💻 I'm currently studying at university. <br />
 🔭 I specialize in full-stack development. <br />
 💻 In general, I can do development in all areas of programming. <br />
 💖 But my favorite area is web development. <br />
