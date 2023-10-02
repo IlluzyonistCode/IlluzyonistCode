@@ -1,4 +1,4 @@
-### Hi there, I'm [VitalijKo](https://github.com/VitalijKo) (or Corruptor) 👋
+### 👋 Hi there, I'm [VitalijKo](https://github.com/VitalijKo) (or Corruptor)
 
 🏠 I'm currently living at Saratov, Russia 🇷🇺. <br />
 👨‍💻 I'm currently studying at university. <br />
