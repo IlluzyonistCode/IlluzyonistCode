@@ -4,10 +4,11 @@
 👨‍💻 I'm currently studying at university. <br />
 🔭 I specialize in full-stack development. <br />
 💻 In general, I can do development in all areas of programming. <br />
-💖 But my favorite area is web development. <br />
-📕 I also do writing and music sometimes. <br />
+💖 My favorite area is web development. <br />
+🎨 I also do card tricks and music sometimes. <br />
 🔎 I love detective thrillers. <br />
-🏐 Favorite sports: volleyball, table tennis, fitness. <br />
+📔 And books and movies in that genre. <br />
+🏐 My favorite sports: volleyball, table tennis, fitness. <br />
 💼 I have obsessive-compulsive disorder. <br />
 📩 My email: *vitalijko4805go@gmail.com*. <br />
 
