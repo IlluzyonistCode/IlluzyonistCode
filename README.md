@@ -1,14 +1,13 @@
-### 👋 Hi there, I'm [VitalijKo](https://github.com/VitalijKo) (or Corruptor)
+### 👋 Hi there, I'm [GLITCH](https://github.com/VitalijKo) (VitalijKo, Corruptor)
 
-🏠 I'm currently living at Saratov, Russia 🇷🇺. <br />
-👨‍💻 I'm currently studying at university. <br />
+🏠 I'm living at Saratov, Russia 🇷🇺. <br />
+👨‍💻 And studying at the Saratov State University. <br />
 🔭 I specialize in full-stack development. <br />
-💻 In general, I can do development in all areas of programming. <br />
-💖 My favorite area is web development. <br />
-🎨 I also do card tricks and music sometimes. <br />
-🔎 I love detective thrillers. <br />
-📔 And books and movies in that genre. <br />
-🏐 My favorite sports: volleyball, table tennis, fitness. <br />
+💻 In general, I can do development in all areas. <br />
+🎭 My other hobbies are writing, music and card tricks. <br />
+💖 As well as evolving in Wolvesville. <br />
+🔎 I love detective thrillers and books / movies in that genre. <br />
+🏐 My favorite sports: volleyball, table tennis, training at gym. <br />
 💼 I have obsessive-compulsive disorder. <br />
 📩 My email: *vitalijko4805go@gmail.com*. <br />
 
@@ -26,21 +25,7 @@
 &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-&nbsp;
-![Windows terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-&nbsp;
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-&nbsp;
-![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-&nbsp;
-![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-&nbsp;
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 &nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 &nbsp;
@@ -90,13 +75,6 @@
 &nbsp;
 ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)
 &nbsp;
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-&nbsp;
-![Keras](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-)
-&nbsp;
-![PyTorch](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 &nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -107,7 +85,17 @@
 &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+&nbsp;
+![Windows terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+&nbsp;
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+&nbsp;
+![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+&nbsp;
+![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 &nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 &nbsp;
