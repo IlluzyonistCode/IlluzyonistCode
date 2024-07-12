@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [GLITCH](https://github.com/VitalijKo) (VitalijKo, Corruptor)
+### 👋 Hello, I'm GLITCH (or Corruptor)
 
 🏠 I'm living at Saratov, Russia 🇷🇺. <br />
 👨‍💻 And studying at the Saratov State University. <br />
