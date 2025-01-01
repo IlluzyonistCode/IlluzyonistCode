@@ -1,14 +1,14 @@
 ### 👋 Hello, I'm GLITCH (or Corruptor)
 
-🏠 I'm living at Saratov, Russia 🇷🇺. <br />
-👨‍💻 And studying at the Saratov State University. <br />
+🏠 I live in Saratov, Russia 🇷🇺. <br />
+👨‍💻 And study at the Saratov State University. <br />
 🔭 I specialize in full-stack development. <br />
 💻 In general, I can do development in all areas. <br />
 🎭 My other hobbies are writing, music and card tricks. <br />
-💖 As well as evolving in Wolvesville. <br />
+🎮 My favourite games are Wolvesville and Geometry Dash. <br />
 🔎 I love detective thrillers and books / movies in that genre. <br />
 🏐 My favorite sports: volleyball, table tennis, training at gym. <br />
-💼 I have obsessive-compulsive disorder. <br />
+🧠 I'm an introvert with obsessive-compulsive disorder. <br />
 📩 My email: *vitalijko4805go@gmail.com*. <br />
 
 ### ⚡ Technologies
@@ -78,5 +78,4 @@
 
 <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VitalyTheGlitch&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalyTheGlitch&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=VitalyTheGlitch&show_icons=true&theme=shadow_red)
