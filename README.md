@@ -1,4 +1,4 @@
-### 👋 Hello, I'm GLITCH (or Corruptor)
+### 👋 Hello, I'm Illuzyonist (or Corruptor)
 
 🏠 I live in Saratov, Russia 🇷🇺. <br />
 👨‍💻 And study at the Saratov State University. <br />
