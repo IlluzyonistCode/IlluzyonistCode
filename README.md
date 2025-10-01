@@ -78,6 +78,6 @@
 
 <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VitalyTheGlitch&show_icons=true&theme=shadow_red)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluzyonistCode&show_icons=true&theme=shadow_red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalyTheGlitch&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluzyonistCode&theme=shadow_red)
