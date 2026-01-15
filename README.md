@@ -1,15 +1,25 @@
 ### 👋 Hello, I'm Illuzyonist (or Corruptor)
 
-🏠 I live in Saratov, Russia 🇷🇺. <br />
-👨‍💻 And study at the Saratov State University. <br />
-🔭 I specialize in full-stack development. <br />
-💻 In general, I can do development in all areas. <br />
-🎭 My other hobbies are writing, music and card tricks. <br />
-🎮 My favourite games are Wolvesville and Geometry Dash. <br />
-🔎 I love detective thrillers and books / movies in that genre. <br />
-🏐 My favorite sports: volleyball, table tennis, training at gym. <br />
-🧠 I'm an introvert with obsessive-compulsive disorder. <br />
-📩 My email: *vitalijko4805go@gmail.com*. <br />
+🏠 **Location:** Saratov, Russia 🇷🇺 <br />
+🎓 **Education:** Saratov State University (SSU) <br />
+💻 **Role:** Full-stack developer with a versatile approach to any complexity <br />
+🧩 **Type:** INTJ | Enneagram 5w4 <br />
+
+
+---
+
+### 🧠 Mindset & Architecture
+* 🧬 **Psychological Profile:** **Obsessive-Compulsive PD**, **Antisocial PD**, **Schizoid PD**
+* ⚙️ **Traits:** High focus on structure, analytical detachment, and deep individual immersion
+* 🔍 **Interests:** Introversion, complex systems, and logical puzzles
+
+### 🎭 Beyond the Code
+* ✍️ **Hobbies:** Writing, music, card tricks
+* 🎮 **Games:** Wolvesville, Geometry Dash
+* 🎬 **Cinema/Books:** Detective thrillers, crime, psychological mind games
+* 🏐 **Sports:** Volleyball, table tennis, gym, calisthenics
+
+---
 
 ### ⚡ Technologies
 
@@ -60,7 +70,6 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 &nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-&nbsp;
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
@@ -79,5 +88,4 @@
 <br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IlluzyonistCode&show_icons=true&theme=shadow_red)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlluzyonistCode&theme=shadow_red)
