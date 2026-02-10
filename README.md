@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Mindset & Architecture
-* 🧬 **Psychological Profile:** **Obsessive-Compulsive PD**, **Antisocial PD**, **Schizoid PD**
+* 🧬 **Psychological Profile:** **Obsessive-Compulsive PD** & **Antisocial PD**
 * ⚙️ **Traits:** High focus on structure, analytical detachment, and deep individual immersion
 * 🔍 **Interests:** Introversion, complex systems, and logical puzzles
 
